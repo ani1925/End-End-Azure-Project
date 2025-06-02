@@ -1,4 +1,4 @@
-# 🚀 A# 🚀 AdventureWorks Performance Dashboard
+# 🚀 AdventureWorks Performance Dashboard
 
 This repository showcases a full-scale data Engineer  project using the **AdventureWorks dataset**, built entirely on the Azure data platform. The goal is to create an end-to-end pipeline for data ingestion, transformation, storage, and visualization using enterprise-grade tools.
 
@@ -28,25 +28,6 @@ To design a cloud-based performance dashboard using the AdventureWorks dataset, 
 - 🧮 Dimensional modeling and data marts in Synapse SQL  
 - 📈 Power BI reports showing sales, profit, and customer KPIs  
 - 🎛️ Dynamic filters and slicers for interactivity  
-
----
-
-## 📸 Sample Screenshots
-
-### 🔹 Sales Overview  
-![Sales Overview](Screenshots/sales-overview.png)
-
-### 🔹 Profit by Region  
-![Profit by Region](Screenshots/profit-by-region.png)
-
-### 🔹 Product Performance  
-![Product Performance](Screenshots/product-performance.png)
-
----
-
-## 📁 Folder Structure
-
-
 
 ---
 
